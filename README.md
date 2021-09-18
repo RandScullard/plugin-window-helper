@@ -1,4 +1,4 @@
-# plugin-window-helper
+# Plug-In Window Helper
 
 (PWH for short) 😀
 
